@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\bin\Debug\NetMod1.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\bin\Debug\NetMod1.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\bin\Debug\NetMod1.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\obj\Debug\NetMod1.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\obj\Debug\NetMod1.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetMod1\NetMod1\obj\Debug\NetMod1.pdb
